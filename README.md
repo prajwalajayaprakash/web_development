@@ -1,5 +1,5 @@
 # WEB_DEVELOPMENT
-Learning web development from the scratch from __The Web Developer Bootcamp__ 
+Learning web development from the scratch from __The Web Developer Bootcamp__ by __Colt Steele__
 
 Will be covering the following :
 * HTML
@@ -9,3 +9,11 @@ Will be covering the following :
 * JQuery
 * NodeJS
 * RESTful
+# HTML:
+1. Quiz-1
+
+![](https://github.com/prajwalajayaprakash/web_development/blob/master/images/Quiz1.PNG)
+
+2. Quiz-2
+
+![](https://github.com/prajwalajayaprakash/web_development/blob/master/images/Quiz2.PNG)
