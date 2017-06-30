@@ -11,3 +11,9 @@ Will be covering the following :
 * RESTful
 # HTML:
 1. Quiz-1
+
+![](https://github.com/prajwalajayaprakash/web_development/blob/master/images/Quiz1.PNG)
+
+2. Quiz-2
+
+![](https://github.com/prajwalajayaprakash/web_development/blob/master/images/Quiz2.PNG)
