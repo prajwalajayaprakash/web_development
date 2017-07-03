@@ -4,7 +4,7 @@ Learning web development from the scratch from __The Web Developer Bootcamp__ by
 Will be covering the following :
 - [x] HTML
 - [x] CSS
-- [ ] Bootstrap
+- [x] Bootstrap
 - [ ] JavaScript
 - [ ] JQuery
 - [ ] NodeJS
