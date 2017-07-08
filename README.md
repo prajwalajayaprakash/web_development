@@ -5,7 +5,7 @@ Will be covering the following :
 - [x] HTML
 - [x] CSS
 - [x] Bootstrap
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] JQuery
 - [ ] NodeJS
 - [ ] RESTful
