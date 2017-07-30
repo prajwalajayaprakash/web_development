@@ -6,6 +6,4 @@ Will be covering the following :
 - [x] CSS
 - [x] Bootstrap
 - [x] JavaScript
-- [x] JQuery
-- [ ] NodeJS
-- [ ] RESTful
+
